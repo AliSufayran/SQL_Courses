@@ -3,23 +3,30 @@
     <img src="https://satr.codes/satr-dark-logo-without-name.5a7f23cd8141aca2d297abda78880cee.svg" alt="Logo" width="200"/>
 </p>
 
-# IBM Data Analytics with Excel and R 
-Welcome to the SQL Courses repository! This repository contains materials for SQL 101, 102, and 103 courses from satr.codes, including summaries and final project files.
+# SATR.CODES SQL Courses
+Welcome to the SQL Courses! This repository contains materials for SQL 101, 102, and 103 courses from [satr.codes](https://satr.codes/), including summaries and final project files.
 
 ## Course Overview
 
 - **SQL 101**: 
-  - Introduction to SQL, basic queries, and database management. 
-  - Focus on fundamental concepts and essential commands.
+  - **Concept of Databases and Their Uses**: Understanding the basics of databases and their importance in the data-driven world.
+  - **Working with Tables**: How to create tables, understand their structure, and the relationships between them.
+  - **Data Management**: Includes adding, viewing, modifying, and deleting data using basic SQL queries.
+ - **Final Project:** [SQL101](URL)
 
 - **SQL 102**: 
-  - Intermediate SQL concepts, including joins, subqueries, and data manipulation.
-  - Emphasis on practical applications and real-world scenarios.
+  - **Working with Data**: Understanding how to manipulate and manage data within a database.
+  - **Overview of Aggregate Functions**: Exploring functions that perform calculations on a set of values and return a single value (e.g., COUNT, SUM, AVG).
+  - **Overview of Scalar Functions**: Examining functions that operate on a single value and return a single value (e.g., UPPER, LOWER, ROUND).
+- **Final Project:** [SQL102](URL)
 
 - **SQL 103**: 
-  - Advanced SQL topics, such as stored procedures, functions, and optimization techniques.
-  - Covers best practices and performance improvements.
- 
+  - **Concept of Relationships Between Tables**: Understanding how tables interact and relate to one another within a database.
+  - **Concept of JOINS**: Exploring different types of joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, etc.) to retrieve data from multiple tables based on related columns.
+  - **Concept of FOREIGN KEY**: Examining the role of foreign keys in maintaining referential integrity between tables.
+- **Final Project:** [SQL103](URL)
 
-Total Learning Hours: 124 
+
+Total Learning Hours: 3.5 
+
 Happy learning!
