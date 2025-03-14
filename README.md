@@ -4,7 +4,7 @@
 </p>
 
 # SATR.CODES SQL Courses
-Welcome to the SQL Courses! This repository contains the final project files for SQL 101, 102, and 103 courses from [satr.codes](https://satr.codes/).
+Welcome to the SQL Courses! This repository contains the final project files for SQL 101, 102, and 103 courses from [satr.codes](https://satr.codes/all-courses?program_language=SQL).
 
 ## Course Overview
 
