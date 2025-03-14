@@ -1,6 +1,6 @@
 
 <p align="right">
-    <img src="https://assets.safcsp.cloud/satr-trimmedName-66287acb-193f-4616-b2dd-dded467f307e.png" alt="Logo" width="200"/>
+    <img src="https://satr.codes/satr-dark-logo-without-name.5a7f23cd8141aca2d297abda78880cee.svg" alt="Logo" width="200"/>
 </p>
 
 # SATR.CODES SQL Courses
